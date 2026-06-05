@@ -5,7 +5,7 @@
 **remark** is a tool that transforms markdown with plugins.
 See [the monorepo readme][github-remark] for info on what the remark ecosystem
 is.
-This page lists existing plugins.
+This page lists existing plugins. 
 
 ## Contents
 
@@ -46,6 +46,8 @@ The list of plugins:
   — new syntax for admonitions
   (👉 **note**: [`remark-directive`][github-remark-directive] is similar and up
   to date)
+* 🟢 [`remark-admonition-to-blockquote-callout`](https://github.com/lin-stephanie/remark-admonition-to-blockquote-callout)
+  — convert Python-Markdown and MkDocs Material admonitions to blockquote callouts
 * ⚠️ [`remark-align`](https://github.com/zestedesavoir/zmarkdown/tree/HEAD/packages/remark-align#readme)
   — new syntax to align text or blocks (new node types, rehype
   compatible)
